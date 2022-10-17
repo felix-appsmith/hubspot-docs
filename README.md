@@ -12,12 +12,16 @@ We will be using these as reference:
 ## Table of Contents
 
 1. Introduction
-  - Create a HubSpot Datasource
-  - Connection Settings
-  - Authentication Types
-  - Creating a HubSpot Private App
-  - Getting the Bearer Token
+    - Create a HubSpot Datasource
+    - Connection Settings
+    - Authentication Types
+    - Creating a HubSpot Private App
+    - Getting the Bearer Token
 2. Creating Queries
 3. CMS Domains
 4. URL Redirects
 5. Settings
+
+## References
+
+- https://documentation.divio.com/
