@@ -21,7 +21,7 @@ Appsmith integration with HubSpot will allow you to create a very nice user inte
 --------------------------------------------
 ### Connection Settings
 
-![img](hubspot-docs/01_introduction/Settings.png)
+![img](/01_introduction/Settings.png)
 
 
 ### Getting the Bearer Token
